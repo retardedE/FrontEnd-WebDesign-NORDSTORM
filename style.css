@@ -36,9 +36,9 @@ body{
     justify-content: center;
 }
 .navOpening p{
-    color: white;
+    color: whitesmoke;
     font-family: MainB !important;
-    font-size: 14px;
+    font-size: 16px;
     word-spacing: 0.5px;
 }
 .navOpening p span{
